@@ -1,0 +1,2 @@
+user/testUserRegister
+#user/testGetRegisterCode

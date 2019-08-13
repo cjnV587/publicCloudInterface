@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<interface>
+    <url name="userRegister">
+        <type>app</type>
+        <group>user</group>
+        <module>security</module>
+        <action>userRegister</action>
+    </url>
+</interface>
